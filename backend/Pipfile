@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bs4 = "*"
+scrapy = "*"
+attrs = "*"
+json = "*"
+os = "*"
+requests = "*"
+re = "*"
+time = "*"
+flask = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+flask-script = "*"
+flask-restplus = "*"
+functools = "*"
+psycopg2 = "*"
+random = "*"
+string = "*"
+psycopg2-binary = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
