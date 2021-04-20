@@ -4,7 +4,7 @@
 
 ```bash
 # install backend dependencies
-cd ./ted_backend
+cd ./backend
 pipenv install
 
 # go to the virtual env of your computer
