@@ -1,2 +1,6 @@
 # TED-Helper
-Crawl all the data of TED, build a corpus, and provide query services.
+Through the TED-Helper, I will provide a tutotial for building a web application from scratch using Vue and Flask.
+
+## frontend
+
+## backend
