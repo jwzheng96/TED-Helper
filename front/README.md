@@ -1,6 +1,4 @@
-# ted_front
-
-> ted frontend
+# front
 
 ## Build Setup
 
