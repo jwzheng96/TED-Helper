@@ -1,6 +1,4 @@
-# TED
-
-## Backend
+# Backend
 
 ```bash
 # install backend dependencies
